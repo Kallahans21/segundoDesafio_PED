@@ -1,0 +1,25 @@
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\bin\Debug\Desafio2_PED.exe.config
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\bin\Debug\Desafio2_PED.exe
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\bin\Debug\Desafio2_PED.pdb
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.csproj.AssemblyReference.cache
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.Properties.Resources.resources
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.csproj.GenerateResource.cache
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.exe
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.pdb
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.frmArco.resources
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.frmSimulador.resources
+C:\Users\Kelvin.KELVINPC\Documents\Visual Studio 2022\Projects\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.frmVertice.resources
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\bin\Debug\Desafio2_PED.exe.config
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\bin\Debug\Desafio2_PED.exe
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\bin\Debug\Desafio2_PED.pdb
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.csproj.AssemblyReference.cache
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.frmArco.resources
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.frmSimulador.resources
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.Properties.Resources.resources
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.frmVertice.resources
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.csproj.GenerateResource.cache
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.csproj.CoreCompileInputs.cache
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.exe
+C:\Users\Kallahan Andrea\Downloads\Desafio-2-PED-main\Desafio-2-PED-main\Desafio2_PED\Desafio2_PED\obj\Debug\Desafio2_PED.pdb
